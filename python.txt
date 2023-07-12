@@ -1,1 +1,2 @@
 Python is a dynamically-typed programming langauge.
+It's a high-level, general purpose language.
