@@ -1,4 +1,5 @@
 Python is a dynamically-typed programming langauge.
 It's a high-level, general purpose language.
 It's developed by Guido van Rossum in the late 80s
-
+Just like the other programming language Ruby, Python was designed to be easily read by programmers. 
+Because of its large following and many libraries, Python can be implemented and used to do anything from webpages to scientific research.
